@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "coyHUyFsG8x1qettn3QNxM/G1OdcOMbN4dgtu+n3UFulKp272UceA8X4lNbbSTdlTOnMTddi2sePNCRLJm6EAA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\feedi\\OneDrive\\csharp-course\\final-project\\final-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feedi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\feedi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\feedi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\feedi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

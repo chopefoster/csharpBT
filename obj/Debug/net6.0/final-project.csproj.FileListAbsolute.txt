@@ -1,0 +1,15 @@
+C:\Users\feedi\OneDrive\csharp-course\final-project\bin\Debug\net6.0\final-project.exe
+C:\Users\feedi\OneDrive\csharp-course\final-project\bin\Debug\net6.0\final-project.deps.json
+C:\Users\feedi\OneDrive\csharp-course\final-project\bin\Debug\net6.0\final-project.runtimeconfig.json
+C:\Users\feedi\OneDrive\csharp-course\final-project\bin\Debug\net6.0\final-project.dll
+C:\Users\feedi\OneDrive\csharp-course\final-project\bin\Debug\net6.0\final-project.pdb
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.csproj.AssemblyReference.cache
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.AssemblyInfoInputs.cache
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.AssemblyInfo.cs
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.csproj.CoreCompileInputs.cache
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.dll
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\refint\final-project.dll
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.pdb
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\final-project.genruntimeconfig.cache
+C:\Users\feedi\OneDrive\csharp-course\final-project\obj\Debug\net6.0\ref\final-project.dll
